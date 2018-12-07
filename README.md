@@ -19,4 +19,6 @@ This repo will contain 16 projects to teach DS using Java
   
   ![](/images/typical_logbook_entries.png)
 
+**Source code for the project is located [here](https://github.com/dbc2201/LogBookADT).**
+
  
